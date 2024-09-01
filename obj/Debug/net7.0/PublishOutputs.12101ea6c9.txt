@@ -1,0 +1,10 @@
+C:\Users\Itay\Desktop\Hello world\game\bin\Debug\net7.0\publish\game.exe
+C:\Users\Itay\Desktop\Hello world\game\bin\Debug\net7.0\publish\game.dll
+C:\Users\Itay\Desktop\Hello world\game\bin\Debug\net7.0\publish\game.deps.json
+C:\Users\Itay\Desktop\Hello world\game\bin\Debug\net7.0\publish\game.runtimeconfig.json
+C:\Users\Itay\Desktop\Hello world\game\bin\Debug\net7.0\publish\game.pdb
+C:\Users\Itay\Desktop\Hello world\game\bin\Debug\net7.0\publish\Raylib-cs.dll
+C:\Users\Itay\Desktop\Hello world\game\bin\Debug\net7.0\publish\runtimes\linux-x64\native\libraylib.so
+C:\Users\Itay\Desktop\Hello world\game\bin\Debug\net7.0\publish\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\Itay\Desktop\Hello world\game\bin\Debug\net7.0\publish\runtimes\win-x64\native\raylib.dll
+C:\Users\Itay\Desktop\Hello world\game\bin\Debug\net7.0\publish\runtimes\win-x86\native\raylib.dll
